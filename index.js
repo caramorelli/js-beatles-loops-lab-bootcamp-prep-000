@@ -20,6 +20,6 @@ function johnLennonFacts(array) {
   for (var i = 0; i < array.length; i++) {
     new_arr.push(array[i] + '!')
   }
-  return new_arr
+  return new_arr;
 }
 
