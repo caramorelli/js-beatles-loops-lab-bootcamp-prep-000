@@ -25,6 +25,7 @@ function johnLennonFacts(array) {
 
 function iLoveTheBeatles(num) {
   var array = [];
+  if (num > 9)
   for (var i = 0; i <= num; i++) {
     array.push('I love the Beatles!');
   }
