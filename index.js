@@ -8,7 +8,7 @@
 //   });
 
 function theBeatlesPlay(musicians, instruments) {
-  len = musicians.length
+  // len = musicians.length;
   for (var i = 0; i < musicians.length; i++) {
     
   }
